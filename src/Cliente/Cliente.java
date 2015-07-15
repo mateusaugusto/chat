@@ -23,7 +23,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
 
-public class Cliente {
+public class Cliente That is the teste {
   public static int id ;
     static class Chat extends Observable {
 
